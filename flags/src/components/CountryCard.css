@@ -1,0 +1,15 @@
+.country-card {
+  width: 150px;
+  text-align: center;
+  border: 1px solid #ccc;
+  padding: 10px;
+  border-radius: 8px;
+  background-color: #f9f9f9;
+  color: black;
+}
+
+.country-card img {
+  width: 100%;
+  height: auto;
+  border-radius: 4px;
+}
